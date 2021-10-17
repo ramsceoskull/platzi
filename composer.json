@@ -1,0 +1,19 @@
+{
+    "name": "ramsceoskull/platzi",
+    "description": "prueba",
+    "type": "library",
+    "require": {
+        "nesbot/carbon": "3.x-dev"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "10.0.x-dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ramsés Anceno",
+            "email": "ramsesrame21@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
